@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        Toast.makeText(this,"Hola Mundo",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,item.getTitle(),Toast.LENGTH_SHORT).show();
         return super.onOptionsItemSelected(item);
     }
 }
