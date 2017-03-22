@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="search">Buscar</string>
+    <string name="delete">Eliminar</string>
+    <string name="update">Actualizar</string>
+</resources>
